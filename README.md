@@ -1,21 +1,15 @@
 <div align="center">
 
 # Palak Kanwar Chouhan
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&colors=7AA2F7,9D7CD8,BB9AF7&height=200&section=header&text=AI%20%26%20Data%20Science%20Student&fontSize=40)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&colors=7AA2F7,9D7CD8,BB9AF7&height=200&section=header&text=Engineering%20Student&fontSize=40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&lines=Applied+BS+in+AI+%26+Data+Science+@+IIT+Jodhpur;Engineering+Student+@+RIT;Full+Stack+Developer+%26+AI+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&lines=BS+in+AI+and+Data+Science+at+IIT+Jodhpur;Student+at+RIT;Full+Stack+Developer" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/India-Ajmer-blue?style=flat-square&logo=googlemaps" />
   <a href="https://www.linkedin.com/in/palak-kanwar-chouhan-390a89381"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:palakkawarchouhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/itsypalak53"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsypalak53&label=Views&color=7AA2F7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/itsypalak53?style=for-the-badge&label=Followers&color=9D7CD8" />
-  <img src="https://img.shields.io/github/stars/itsypalak53?style=for-the-badge&label=Stars&color=BB9AF7" />
 </p>
 
 </div>
@@ -87,6 +81,10 @@ A systematic implementation of technology-focused research involving complex dat
 *   Facilitated placement drives and managed industry outreach.
 *   Coordinated with corporate recruiters to improve placement metrics.
 
+**Core Tech Team | AI/ML Club, RIT**
+*   Organized technical workshops and knowledge-sharing sessions.
+*   Mentored peers in Python and data analytics concepts.
+
 ---
 
 ## 🏆 Achievements
@@ -126,9 +124,6 @@ A systematic implementation of technology-focused research involving complex dat
 
 ---
 
-## 🌿 Current Focus
-```yaml
-Learning: Advanced AI Agent Systems
-Building: Full Stack Data Dashboards
-Exploring: RAG Systems & LLM Engineering
-OpenTo: Research Internships & AI Engineering Roles
+<div align="center">
+  <i>"Bridging the gap between cutting-edge AI research and real-world engineering excellence."</i>
+</div>
