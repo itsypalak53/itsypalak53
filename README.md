@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am an aspiring AI & Data Science professional currently pursuing an **Applied BS at IIT Jodhpur** and an Engineering degree at **RIT**. My expertise lies at the intersection of scalable software engineering, full-stack web development, and intelligent data systems. I am a firm believer in the "product engineering" mindset—building tools that are not only technically sound but also solve real-world user problems. Currently, I am highly active in the RIT AI/ML Club and the Training & Placement Office (TPO) team, focusing on expanding technical knowledge and professional outreach.
+I am an aspiring AI & Data Science professional currently pursuing an **Applied BS/Bs.c in Applied AI and Data Science at IIT Jodhpur** and an Computer Science Engineering degree at **RIT**. My expertise lies at the intersection of scalable software engineering, full-stack web development, and intelligent data systems. I am a firm believer in the "product engineering" mindset—building tools that are not only technically sound but also solve real-world user problems. Currently, I am highly active in focusing on expanding technical knowledge and professional outreach.
 
 ---
 
@@ -80,10 +80,6 @@ A systematic implementation of technology-focused research involving complex dat
 **Training and Placement Office (TPO) Team | RIT**
 *   Facilitated placement drives and managed industry outreach.
 *   Coordinated with corporate recruiters to improve placement metrics.
-
-**Core Tech Team | AI/ML Club, RIT**
-*   Organized technical workshops and knowledge-sharing sessions.
-*   Mentored peers in Python and data analytics concepts.
 
 ---
 
