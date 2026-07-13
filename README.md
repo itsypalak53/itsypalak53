@@ -4,7 +4,12 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=580&lines=BS+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Computer+Science+Engineering+%40+RIT;Full+Stack+Developer+%F0%9F%92%97;Building+Intelligent%2C+Human-Centered+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=580&lines=BS+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Computer+Science+Engineering+%40+RIT;Full+Stack+Developer;Building+Intelligent%2C+Human-Centered+Systems" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡-AI_%7C_Data_%7C_Full--Stack-FF3CAC?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
+<img src="https://img.shields.io/badge/🔮-Building_with_Purpose-9D4EDD?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
 
 <br/>
 
@@ -54,7 +59,9 @@ I believe in a **"product engineering"** mindset — building tools that are not
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF69B4,100:9D4EDD&height=45&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC0CB,100:FF69B4&height=40&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF3CAC,100:DA70D6&height=40&section=header&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:9D4EDD,100:FF69B4&height=40&section=header" width="100%" />
 </div>
 
 <div align="center">
@@ -239,12 +246,12 @@ A systematic implementation of technology-focused research involving complex dat
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsypalak53&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF69B4&icon_color=DA70D6&text_color=FFD1E8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsypalak53&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF69B4&text_color=FFD1E8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsypalak53&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsypalak53&layout=compact&theme=dracula&hide_border=true" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsypalak53&theme=radical&hide_border=true&background=1a1a2e&stroke=FF69B4&ring=DA70D6&fire=FF3CAC&currStreakLabel=FFD1E8" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsypalak53&theme=dracula&hide_border=true" width="70%" />
 
 <br/><br/>
 
