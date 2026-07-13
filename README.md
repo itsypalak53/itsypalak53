@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF3CAC,100:9D4EDD&height=230&section=header&text=Palak%20Kanwar%20Chouhan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engineering%20Student%20%7C%20AI%20%26%20Data%20Science&descAlignY=56&descSize=18&descColor=ffe3f2" width="100%" />
+# 💗 Palak Kanwar Chouhan 💗
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:C2185B,100:AD1457&height=200&section=header&text=Engineering%20Student&fontSize=40&fontColor=FFFFFF" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=580&lines=BS+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Computer+Science+Engineering+%40+RIT;Full+Stack+Developer;Building+Intelligent%2C+Human-Centered+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&lines=BS+in+AI+and+Data+Science+at+IIT+Jodhpur;Student+at+RIT;Full+Stack+Developer" />
 
 <br/>
 
@@ -274,6 +274,3 @@ A systematic implementation of technology-focused research involving complex dat
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:FF3CAC,100:FFC0CB&height=130&section=footer" width="100%" />
 
 </div>
-
-
-
