@@ -1,21 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&colors=FFC0CB,FF69B4,DA70D6,C71585,9D4EDD&height=220&section=header&text=Palak%20Kanwar%20Chouhan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF3CAC,100:9D4EDD&height=230&section=header&text=Palak%20Kanwar%20Chouhan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engineering%20Student%20%7C%20AI%20%26%20Data%20Science&descAlignY=56&descSize=18&descColor=ffe3f2" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3CAC&background=FFFFFF00&center=true&vCenter=true&width=560&lines=BS+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Computer+Science+Engineering+%40+RIT;Full+Stack+Developer+%F0%9F%92%97;Building+Intelligent%2C+Human-Centered+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=580&lines=BS+in+AI+%26+Data+Science+%40+IIT+Jodhpur;Computer+Science+Engineering+%40+RIT;Full+Stack+Developer+%F0%9F%92%97;Building+Intelligent%2C+Human-Centered+Systems" />
+
+<br/>
+
+<sub>◈ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 🩷 ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ◈</sub>
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/India-Ajmer-FF69B4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=C71585" />
-  <a href="https://www.linkedin.com/in/palak-kanwar-chouhan-390a89381"><img src="https://img.shields.io/badge/LinkedIn-FF3CAC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9D4EDD" /></a>
-  <a href="mailto:palakkawarchouhan@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C71585" /></a>
-  <a href="https://github.com/itsypalak53"><img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white&labelColor=9D4EDD" /></a>
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📍_India-Ajmer-FF69B4?style=for-the-badge&labelColor=1a1a2e" />
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/palak-kanwar-chouhan-390a89381"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF3CAC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+</td>
+<td align="center">
+<a href="mailto:palakkawarchouhan@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-DA70D6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+</td>
+<td align="center">
+<a href="https://github.com/itsypalak53"><img src="https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/%E2%9C%A8-crafted%20with%20intention-FFB6C1?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/✨_crafted_with_intention-1a1a2e?style=flat-square&labelColor=FFB6C1&color=1a1a2e" />
 
 </div>
 
@@ -40,9 +54,7 @@ I believe in a **"product engineering"** mindset — building tools that are not
 </table>
 
 <div align="center">
-
-`─────────  ⋆⋅☆⋅⋆  ─────────`
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF69B4,100:9D4EDD&height=45&section=header" width="100%" />
 </div>
 
 <div align="center">
@@ -166,24 +178,20 @@ A systematic implementation of technology-focused research involving complex dat
 </table>
 
 <div align="center">
-
-`─────────  ⋆⋅☆⋅⋆  ─────────`
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:9D4EDD,100:FF69B4&height=45&section=header&reversal=true" width="100%" />
 </div>
 
 <div align="center">
 
 ### ‧₊˚ ✧ ACHIEVEMENTS ✧ ˚₊‧
 
-</div>
+<br/>
 
-<div align="center">
-
-| 🏆 Recognition | Details |
-| :--- | :--- |
-| **NPTEL Elite** | 78% Score in Object-Oriented Programming |
-| **Daksh Gurukul** | IIT Guwahati Computer Science Program |
-| **Hackathon Participant** | Shankara Global Hackathon 2026 |
+<img src="https://img.shields.io/badge/🏅_NPTEL_Elite-78%25_OOP_Score-FF3CAC?style=for-the-badge&labelColor=1a1a2e" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🎓_Daksh_Gurukul-IIT_Guwahati_CS_Program-DA70D6?style=for-the-badge&labelColor=1a1a2e" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🚀_Hackathon-Shankara_Global_2026-9D4EDD?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
@@ -240,7 +248,7 @@ A systematic implementation of technology-focused research involving complex dat
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsypalak53&theme=redical&hide_border=true&bg_color=1a1a2e&color=FF69B4&line=DA70D6&point=FFD1E8" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsypalak53&hide_border=true&bg_color=1a1a2e&color=FF69B4&line=DA70D6&point=FFD1E8&area=true&area_color=FF69B4" width="90%" />
 
 </div>
 
@@ -256,7 +264,9 @@ A systematic implementation of technology-focused research involving complex dat
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&colors=9D4EDD,C71585,DA70D6,FF69B4,FFC0CB&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:FF3CAC,100:FFC0CB&height=130&section=footer" width="100%" />
 
 </div>
+
+
 
