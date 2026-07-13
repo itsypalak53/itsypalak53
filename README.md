@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💗 Palak Kanwar Chouhan 💗
+# Palak Kanwar Chouhan
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:C2185B,100:AD1457&height=200&section=header&text=Engineering%20Student&fontSize=40&fontColor=FFFFFF" />
 
@@ -59,9 +59,9 @@ I believe in a **"product engineering"** mindset — building tools that are not
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC0CB,100:FF69B4&height=40&section=header" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF3CAC,100:DA70D6&height=40&section=header&reversal=true" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:9D4EDD,100:FF69B4&height=40&section=header" width="100%" />
+
+`─────────  ⋆⋅☆⋅⋆  ─────────`
+
 </div>
 
 <div align="center">
@@ -185,7 +185,9 @@ A systematic implementation of technology-focused research involving complex dat
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:9D4EDD,100:FF69B4&height=45&section=header&reversal=true" width="100%" />
+
+`─────────  ⋆⋅☆⋅⋆  ─────────`
+
 </div>
 
 <div align="center">
