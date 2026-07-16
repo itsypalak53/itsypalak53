@@ -168,23 +168,6 @@ A systematic implementation of technology-focused research involving complex dat
 
 <div align="center">
 
-### ‧₊˚ ✧ EXPERIENCE ✧ ˚₊‧
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-**Training and Placement Office (TPO) Team | RIT**
-- Facilitated placement drives and managed industry outreach.
-- Coordinated with corporate recruiters to improve placement metrics.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 `─────────  ⋆⋅☆⋅⋆  ─────────`
 
