@@ -164,12 +164,6 @@ A systematic implementation of technology-focused research involving complex dat
 
 `─────────  ⋆⋅☆⋅⋆  ─────────`
 
-</div>
-
-<div align="center">
-
-
-`─────────  ⋆⋅☆⋅⋆  ─────────`
 
 </div>
 
