@@ -204,23 +204,6 @@ A systematic implementation of technology-focused research involving complex dat
 
 <div align="center">
 
-### ‧₊˚ ✧ CODING PROFILES ✧ ˚₊‧
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FF3CAC?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DA70D6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" />
-</p>
-
-</div>
-
-<div align="center">
-
-`─────────  ⋆⋅☆⋅⋆  ─────────`
-
-</div>
-
-<div align="center">
-
 ### ‧₊˚ ✧ GITHUB ANALYTICS ✧ ˚₊‧
 
 <br/>
